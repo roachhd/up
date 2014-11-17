@@ -1,12 +1,12 @@
 {
-  "name": "Carlos Becker Blog",
+  "name": "Katie Ball",
   "version": "0.0.1",
   "authors": [
-    "Carlos Alexandro Becker <caarlos0@gmail.com>"
+    "Katie Ball <katie@roachhd.com>"
   ],
-  "description": "Carlos Becker personal blog at carlosbecker.com",
+  "description": "Katie Ball blog, portfolio, projects and games at katieball.me",
   "license": "MIT",
-  "homepage": "http://carlosbecker.com",
+  "homepage": "http://katieball.me",
   "private": true,
   "ignore": [
     "**/.*",
@@ -17,6 +17,6 @@
   ],
   "dependencies": {
     "bootstrap": "~3.2.0",
-    "font-awesome": "4.2.0"
-  }
+    "fortawesome/font-awesome": "4.2.0"
+}
 }
